@@ -64,7 +64,7 @@ HTML
 
 `<article>`
 `<figure>`
-` <img src="assets/dest_X.jpeg" alt="Destination Name">`
+` 787878787878787878787878787878787878`
 `<figcaption>`
 ` <h3>Destination Name</h3>`
 `<p>Short description here.</p>`
